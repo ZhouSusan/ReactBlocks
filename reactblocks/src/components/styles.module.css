@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+.header {
+    height: 100px;
+    margin: 40px;
+    background-color: green;
+}
+
+.navigation {
+    height: 300px;
+    width: 23%;
+    background-color: blue;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.main {
+    height: 400px;
+    width: 70%;
+    background-color: red;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.subcontent {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    align-items: center;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.advertisement {
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+    margin-left: 145px;
+    margin-top: 10px;
+}
